@@ -1,0 +1,28 @@
+{
+  "channels": [
+    {
+      "id": null,
+      "username": "testvks1",
+      "title": "Test",
+      "target_channels": [
+        2307166497
+      ],
+      "replacements": {
+        "hello": "hyee",
+        "oldword1": "newword1"
+      },
+      "links_to_replace": {
+        "example": "new-vikash.com",
+        "old-link.com": "new-link.com"
+      }
+    },
+    {
+      "id": 2347275942,
+      "username": null,
+      "title": "Okk win 1",
+      "target_channels": [
+        2314323008
+      ]
+    }
+  ]
+}
