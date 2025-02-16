@@ -1,28 +1,21 @@
 {
   "channels": [
     {
-      "id": null,
-      "username": "testvks1",
+      "id": 2320813986,
+      "username": null,
       "title": "Test",
       "target_channels": [
-        2307166497
+        2319652902
       ],
       "replacements": {
         "hello": "hyee",
         "oldword1": "newword1"
       },
       "links_to_replace": {
-        "example": "new-vikash.com",
-        "old-link.com": "new-link.com"
+        "example": "https://damanslots.in/#/register?invitationCode=7247711618071",
+        "old-link.com": "invitationCode="
       }
-    },
-    {
-      "id": 2347275942,
-      "username": null,
-      "title": "Okk win 1",
-      "target_channels": [
-        2314323008
-      ]
     }
+    
   ]
 }
