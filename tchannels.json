@@ -3,17 +3,15 @@
     {
       "id": 2320813986,
       "username": null,
-      "title": "Test",
+      "title": "DiuWin Sureshots Official",
       "target_channels": [
         2319652902
       ],
       "replacements": {
-        "hello": "hyee",
-        "oldword1": "newword1"
+        "DiuWin": "Daman"
       },
       "links_to_replace": {
-        "example": "https://damanslots.in/#/register?invitationCode=7247711618071",
-        "old-link.com": "invitationCode="
+        "invitationCode=": "https://damanslots.in/#/register?invitationCode=7247711618071"
       }
     }
     
